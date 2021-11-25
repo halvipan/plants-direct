@@ -1,4 +1,4 @@
-## Getting Started
+## Running locally
 
 First, run the development server:
 
