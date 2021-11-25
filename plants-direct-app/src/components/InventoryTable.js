@@ -60,7 +60,7 @@ import {
         <Thead>
           <Tr>
             <Th>name</Th>
-            <Th>stock</Th>
+            <Th>quantity</Th>
             <Th></Th>
           </Tr>
         </Thead>
@@ -91,7 +91,7 @@ import {
         <Tfoot>
           <Tr>
             <Td><Input id="name" placeholder="name" onChange={handleChange} variant="flushed"/></Td>
-            <Td><Input id="stock" placeholder="stock" onChange={handleChange} variant="flushed"/></Td>
+            <Td><Input id="stock" placeholder="quantity" onChange={handleChange} variant="flushed"/></Td>
             <Td><Button onClick={createRequest}>Add</Button></Td>
           </Tr>
         </Tfoot>
