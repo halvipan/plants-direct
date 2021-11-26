@@ -17,6 +17,6 @@ The wireframes and analysis artefacts can be found in the relevant folders
 
 | ROUTE | POST            | GET       | PUT         | DELETE |
 | ----------- | --------------- | --------- | ----------- | ------ |
-| /api/inventory       | Add new item to inventory | Get full inventory | Update one item | delete one item |
+| /api/inventory       | Add new item to inventory | Get full inventory | Update one item | Delete one item |
 | /api/authenticate | check user details           |   |  |  |
 | /api/admins | add new admin           |   |  |  |
